@@ -13,6 +13,7 @@ const game = () => {
         match.classList.add("fadeIn");
       });
     };
+    
     //Play Match
     const playMatch = () => {
       const options = document.querySelectorAll(".options button");
